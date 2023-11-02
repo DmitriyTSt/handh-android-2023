@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson5</string>
+    <string name="full_name_template">ФИ: %1$s %2$s</string>
+</resources>
