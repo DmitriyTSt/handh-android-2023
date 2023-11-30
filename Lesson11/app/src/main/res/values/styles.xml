@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BaseTextViewStyle">
+        <item name="android:textColor">#f00</item>
+    </style>
+
+    <style name="BaseTextViewStyle.Yellow">
+        <item name="android:background">#eeee00</item>
+    </style>
+
+    <style name="RedTextViewStyle" parent="BaseTextViewStyle">
+        <item name="android:background">#ee0000</item>
+    </style>
+</resources>
