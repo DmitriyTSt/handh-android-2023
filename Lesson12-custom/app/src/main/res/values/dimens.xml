@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_radius_start">48dp</dimen>
+    <dimen name="circle_radius_end">96dp</dimen>
+    <dimen name="circle_stroke_width">2dp</dimen>
+</resources>
